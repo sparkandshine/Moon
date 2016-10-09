@@ -1,10 +1,10 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Spark & Shine
+bio:                'Record of Growth.'
+description:        "My homepage is http://sparkandshine.net."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/sparkandshine_logo_to_crop.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,19 +37,19 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#twitter:            username
+#facebook:           username
+github:             sparkandshine
+stackoverflow:      3067748/sparkandshine   #from a "http://stackoverflow.com/users/123456/username" link
+email:              sparkandshine@163.com
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -72,4 +72,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-  
