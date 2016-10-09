@@ -1,6 +1,6 @@
 # Site
 title:              Spark & Shine
-bio:                'My homepage is [http://sparkandshine.net](http://sparkandshine.net).'
+bio:                'Please acces my homepage, http://sparkandshine.net.'
 description:        "My homepage is http://sparkandshine.net."
 reading_time:       true
 words_per_minute:   200
@@ -39,6 +39,7 @@ sass:
 #bing-verify:
 #twitter:            username
 #facebook:           username
+home:               http://sparkandhsine.net
 github:             sparkandshine
 stackoverflow:      3067748/sparkandshine   #from a "http://stackoverflow.com/users/123456/username" link
 email:              sparkandshine@163.com
